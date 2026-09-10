@@ -19,11 +19,6 @@
 [![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alokc5651@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alokbuilds-code)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=alokbuilds-code&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/alokbuilds-code?style=for-the-badge&color=4F46E5&label=Followers" alt="Followers"/>
-
 </div>
 
 ---
@@ -85,9 +80,26 @@ I approach development with a **product engineering mindset** — understanding 
 
 ---
 
+## Core Software Engineering
+
+| Area | Focus |
+|---|---|
+| Programming | Writing structured, readable, and maintainable code |
+| Data Structures | Understanding common data structures and their use cases |
+| Algorithms | Problem solving, complexity, and algorithmic thinking |
+| Object-Oriented Programming | Designing modular and reusable software |
+| Git & GitHub | Version control and collaborative development |
+| Software Design | Learning maintainable application architecture |
+| Debugging | Identifying and resolving software issues |
+| APIs | HTTP, REST, JSON, and application integration |
+| Testing | Software quality and testing fundamentals |
+| Deployment | Moving applications from development to production |
+
+---
+
 ## AI / ML Fundamentals
 
-> **Foundational knowledge — currently building deeper understanding.**
+> Foundational knowledge alongside my core Software Engineering focus.
 
 | Area | Level | Focus |
 |---|---|---|
@@ -98,23 +110,6 @@ I approach development with a **product engineering mindset** — understanding 
 | LLMs | Fundamentals | Understanding how language models integrate with software |
 | AI Agents | Exploring | Agent concepts, tools, workflows, and automation |
 | AI Engineering | Exploring | Integrating AI capabilities into software products |
-
----
-
-## Core Software Engineering
-
-| Area | Focus |
-|---|---|
-| Programming | Writing structured, readable, and maintainable code |
-| Data Structures | Understanding common data structures and their use cases |
-| Algorithms | Problem solving, complexity, and algorithmic thinking |
-| Git & GitHub | Version control and collaborative development workflows |
-| Web Development | Building responsive and interactive applications |
-| Software Design | Learning modular and maintainable application architecture |
-| Debugging | Identifying, understanding, and resolving software issues |
-| Testing | Learning software quality and testing fundamentals |
-| APIs | Working with HTTP, REST, JSON, and application integration |
-| Deployment | Understanding how applications move from development to production |
 
 ---
 
@@ -218,27 +213,12 @@ Building practical software projects while developing stronger foundations in **
 - Work with modern JavaScript and TypeScript ecosystems
 - Explore backend and API development
 - Learn cloud and deployment fundamentals
-- Strengthen software engineering and computer science foundations
+- Study software engineering and computer science concepts
 - Explore foundational AI/ML concepts
 
 ### Skills
 
 `Software Engineering` `JavaScript` `TypeScript` `Python` `React` `Git` `Linux` `Docker` `AWS`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Project Builder | Building and deploying practical software projects |
-| GitHub Activity | Maintaining and improving public development projects |
-| Continuous Learning | Consistently expanding software engineering knowledge |
-| Engineering Practice | Applying concepts through hands-on development |
-
-</div>
 
 ---
 
@@ -294,12 +274,12 @@ Building practical software projects while developing stronger foundations in **
 role:
   - Software Engineer
 
-learning:
-  - Core Software Engineering
+core_focus:
+  - Software Engineering
   - Data Structures & Algorithms
   - Computer Science Fundamentals
   - Software Design
-  - System Design
+  - Problem Solving
   - Full-Stack Development
 
 building:
