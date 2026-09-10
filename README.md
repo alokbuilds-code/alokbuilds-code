@@ -22,6 +22,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=alokbuilds-code&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/alokbuilds-code?style=for-the-badge&color=4F46E5&label=Followers" alt="Followers"/>
 
 </div>
 
@@ -78,7 +79,7 @@ I approach development with a **product engineering mindset** — understanding 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,githubactions" alt="Cloud, DevOps and Tooling"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,githubactions" alt="Cloud DevOps and Tooling"/>
 
 </div>
 
@@ -86,7 +87,7 @@ I approach development with a **product engineering mindset** — understanding 
 
 ## AI / ML Fundamentals
 
-> Foundational knowledge alongside my core Software Engineering focus.
+> **Foundational knowledge — currently building deeper understanding.**
 
 | Area | Level | Focus |
 |---|---|---|
@@ -107,13 +108,12 @@ I approach development with a **product engineering mindset** — understanding 
 | Programming | Writing structured, readable, and maintainable code |
 | Data Structures | Understanding common data structures and their use cases |
 | Algorithms | Problem solving, complexity, and algorithmic thinking |
-| Object-Oriented Programming | Designing software using reusable and maintainable abstractions |
 | Git & GitHub | Version control and collaborative development workflows |
 | Web Development | Building responsive and interactive applications |
-| APIs | Working with HTTP, REST, JSON, and application integration |
 | Software Design | Learning modular and maintainable application architecture |
 | Debugging | Identifying, understanding, and resolving software issues |
 | Testing | Learning software quality and testing fundamentals |
+| APIs | Working with HTTP, REST, JSON, and application integration |
 | Deployment | Understanding how applications move from development to production |
 
 ---
@@ -153,7 +153,7 @@ An interactive career roadmap platform designed to help learners understand **wh
 
 <br/>
 
-An interactive learning platform focused on **DevOps concepts, tools, practical challenges, quizzes, and progress tracking**.
+An interactive learning platform concept focused on **DevOps concepts, tools, challenges, quizzes, and progress tracking**.
 
 | Metric | Details |
 |---|---|
@@ -208,7 +208,7 @@ A developer-focused interactive reference for learning and exploring essential *
 **Self-Directed Engineering**  
 **2025 — Present**
 
-Building practical software projects while developing stronger foundations in **core Software Engineering, full-stack development, cloud technologies, and modern development workflows**.
+Building practical software projects while developing stronger foundations in **core software engineering, full-stack development, cloud technologies, and modern development workflows**.
 
 ### Scope
 
@@ -242,18 +242,64 @@ Building practical software projects while developing stronger foundations in **
 
 ---
 
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alokbuilds-code&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" width="48%" alt="GitHub Statistics"/>
+
+<img src="https://streak-stats.demolab.com/?user=alokbuilds-code&hide_border=true&background=0D0B14&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=71717A" width="48%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokbuilds-code&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="42%" alt="Top Languages"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alokbuilds-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokbuilds-code&bg_color=0D0B14&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/alokbuilds-code/alokbuilds-code/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
 ## Current Focus
 
 ```yaml
 role:
   - Software Engineer
 
-core_focus:
-  - Software Engineering
+learning:
+  - Core Software Engineering
   - Data Structures & Algorithms
   - Computer Science Fundamentals
-  - Problem Solving
   - Software Design
+  - System Design
   - Full-Stack Development
 
 building:
